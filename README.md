@@ -1,66 +1,39 @@
+# 👋 Hello! Welcome to my Github profile.
+## My name is Marcus Vinicius
+
 # Marcus Vinicius Lima Silva, Desenvolvedor Back-End
 
-<p>Principais Tecnologias Dominantes: </p>
+### Objetivos e Carreira
+Formado em Gestão da Tecnologia da Informação na Faculdade Impacta de Tecnologia em 2016. Certificado ITIL Foundation v3 pela a Axelos e AWS Certified Cloud Practitioner pela a AWS. 
+Atualmente estou focado em aprender cada vez mais a criar APIs Rest usando o Framework Spring Boot e Framework para o Front-End.
 
-<table witdh="100%">
-    <tr>
-        <td witdh="25%"><img src="imagens/aws.png" alt="Minha Figura"></td>
-        <td witdh="25%"><img src="imagens/aws.png" alt="Minha Figura"></td>
-        <td witdh="25%"><img src="imagens/aws.png" alt="Minha Figura"></td>
-        <td witdh="25%"><img src="imagens/aws.png" alt="Minha Figura"></td>
-    </tr>
-    <tr>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-    </tr>
-    <tr>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-    </tr>
-    <tr>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-    </tr>
-    <tr>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
-    </tr>
-</table>
+### Histótico Profissional
+Iniciei minha experiencia profissional na área de suporte na empresa P2S Tecnologia, onde fiquei por 5 anos. Entrei como estágiario e ao final estava como lider da equipe de suporte. Aprendi muito sendo lider de equipe, a maturidade profissional chegou rápido e minha equipe entregava excelentes trabalhos.
+No início do ano de 2021 decidir mudar o foco da minha carreira focando em desenvolvimento de software. Atualmente estou na IBM desenvolvendo APIs Rest e microservico.
 
+- 🔭 Atualmente estou trabalhando na IBM 
+- 🌱 Atualmente estou aprendendo Spring Boot e criando um projeto de apresentação profissional
+- 📫 Como entrar em contato comigo: (11) 99352-7709
 
-- ADS,Tecnologia da informação FIAP 🎓
-- Front-End - React & Typescript ⚙️ 
-- Back-End - C# & Entity Framework ⚙️ 
-
-<div align="center">
-<div>
-  <a href="https://github.com/e-manfrin">
-  
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e-manfrin&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-manfrin&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
-<div style="display: inline_block theme=radical"><br>
-  <img align="center" alt="M-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="M-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="M-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="M-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="M-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="M-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
-
+### Principais Tecnologias Dominantes:
 <div> 
-  <a href="https://www.youtube.com/channel/UCY5EHeXCC9prM5BOOZM2QIQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-       badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href = "mailto:dr.manfrin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/emily-keyt-manfrin-9601b489/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCY5EHeXCC9prM5BOOZM2QIQ" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="10%"/></a>
+      <a href="https://www.youtube.com/channel/UCY5EHeXCC9prM5BOOZM2QIQ" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="10%"/></a>
+          <a href="https://www.youtube.com/channel/UCY5EHeXCC9prM5BOOZM2QIQ" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="10%"/></a>
+          <a href="https://www.youtube.com/channel/UCY5EHeXCC9prM5BOOZM2QIQ" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="10%"/></a>
+          <a href="https://www.youtube.com/channel/UCY5EHeXCC9prM5BOOZM2QIQ" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="10%"/></a>
+          <a href="https://www.youtube.com/channel/UCY5EHeXCC9prM5BOOZM2QIQ" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="10%"/></a>
+      <a href="https://www.youtube.com/channel/UCY5EHeXCC9prM5BOOZM2QIQ" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="10%"/></a>
+          <a href="https://www.youtube.com/channel/UCY5EHeXCC9prM5BOOZM2QIQ" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10%"/></a>
+          <a href="https://www.youtube.com/channel/UCY5EHeXCC9prM5BOOZM2QIQ" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="10%"/></a>
+</div>
+<br/><br/>
+
+## Contatos: 
+<div><a href = "marcus.silva.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/marcus-vinicius-16484218b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   </div>
+<br/><br/>
+<div align="center">
+<div>  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusviniciusls&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusviniciusls&layout=compact&langs_count=7&theme=dark"/>
 </div>
