@@ -25,8 +25,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusviniciusls&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusviniciusls&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<div align="justify">  
+<br/><br/>
+<div align="justify"> 
+  
 ### Objetivos e Carreira
 Formado em Gestão da Tecnologia da Informação na Faculdade Impacta de Tecnologia em 2016. Certificado ITIL Foundation v3 pela a Axelos e AWS Certified Cloud Practitioner pela a AWS. 
 Atualmente estou focado em aprender cada vez mais a criar APIs Rest usando o Framework Spring Boot e Framework para o Front-End.
