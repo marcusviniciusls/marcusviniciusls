@@ -1,19 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Marcus Vinicius
 
-# Marcus Vinicius Lima Silva, Desenvolvedor Back-End
-
-### Objetivos e Carreira
-Formado em Gestão da Tecnologia da Informação na Faculdade Impacta de Tecnologia em 2016. Certificado ITIL Foundation v3 pela a Axelos e AWS Certified Cloud Practitioner pela a AWS. 
-Atualmente estou focado em aprender cada vez mais a criar APIs Rest usando o Framework Spring Boot e Framework para o Front-End.
-
-### Histótico Profissional
-Iniciei minha experiencia profissional na área de suporte na empresa P2S Tecnologia, onde fiquei por 5 anos. Entrei como estágiario e ao final estava como lider da equipe de suporte. Aprendi muito sendo lider de equipe, a maturidade profissional chegou rápido e minha equipe entregava excelentes trabalhos.
-No início do ano de 2021 decidir mudar o foco da minha carreira focando em desenvolvimento de software. Atualmente estou na IBM desenvolvendo APIs Rest e microservico.
-
-- 🔭 Atualmente estou trabalhando na IBM 
-- 🌱 Atualmente estou aprendendo Spring Boot e criando um projeto de apresentação profissional
-- 📫 Como entrar em contato comigo: (11) 99352-7709
+# Marcus Vinicius Lima Silva, Desenvolvedor Java/Back-End
 
 ### Principais Tecnologias Dominantes:
 <div> 
@@ -37,3 +25,17 @@ No início do ano de 2021 decidir mudar o foco da minha carreira focando em dese
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusviniciusls&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusviniciusls&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+### Objetivos e Carreira
+Formado em Gestão da Tecnologia da Informação na Faculdade Impacta de Tecnologia em 2016. Certificado ITIL Foundation v3 pela a Axelos e AWS Certified Cloud Practitioner pela a AWS. 
+Atualmente estou focado em aprender cada vez mais a criar APIs Rest usando o Framework Spring Boot e Framework para o Front-End.
+
+### Histótico Profissional
+Iniciei minha experiencia profissional na área de suporte na empresa P2S Tecnologia, onde fiquei por 5 anos. Entrei como estágiario e ao final estava como lider da equipe de suporte. Aprendi muito sendo lider de equipe, a maturidade profissional chegou rápido e minha equipe entregava excelentes trabalhos.
+No início do ano de 2021 decidir mudar o foco da minha carreira focando em desenvolvimento de software. Atualmente estou na IBM desenvolvendo APIs Rest e microservico.
+
+- 🔭 Atualmente estou trabalhando na IBM 
+- 🌱 Atualmente estou aprendendo Spring Boot e criando um projeto de apresentação profissional
+- 📫 Como entrar em contato comigo: (11) 99352-7709
+
+
