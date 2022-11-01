@@ -26,6 +26,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusviniciusls&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<div align="justify">  
 ### Objetivos e Carreira
 Formado em Gestão da Tecnologia da Informação na Faculdade Impacta de Tecnologia em 2016. Certificado ITIL Foundation v3 pela a Axelos e AWS Certified Cloud Practitioner pela a AWS. 
 Atualmente estou focado em aprender cada vez mais a criar APIs Rest usando o Framework Spring Boot e Framework para o Front-End.
@@ -37,5 +38,5 @@ No início do ano de 2021 decidir mudar o foco da minha carreira focando em dese
 - 🔭 Atualmente estou trabalhando na IBM 
 - 🌱 Atualmente estou aprendendo Spring Boot e criando um projeto de apresentação profissional
 - 📫 Como entrar em contato comigo: (11) 99352-7709
-
+</div> 
 
