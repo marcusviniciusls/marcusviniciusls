@@ -4,10 +4,10 @@
 
 <table witdh="100%">
     <tr>
-        <td witdh="25%"><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td witdh="25%"><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td witdh="25%"><img src="../imagens/aws.png" alt="Minha Figura"></td>
-        <td witdh="25%"><img src="../imagens/aws.png" alt="Minha Figura"></td>
+        <td witdh="25%"><img src="imagens/aws.png" alt="Minha Figura"></td>
+        <td witdh="25%"><img src="imagens/aws.png" alt="Minha Figura"></td>
+        <td witdh="25%"><img src="imagens/aws.png" alt="Minha Figura"></td>
+        <td witdh="25%"><img src="imagens/aws.png" alt="Minha Figura"></td>
     </tr>
     <tr>
         <td><img src="../imagens/aws.png" alt="Minha Figura"></td>
